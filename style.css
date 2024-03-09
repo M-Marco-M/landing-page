@@ -2,7 +2,12 @@
     background-color: #1f2937;
 }
 
+.bar {
+    display: flex;
+}
+
 ul {
     margin: 0px;
     padding: 0px;
 }
+
