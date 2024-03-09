@@ -20,5 +20,7 @@ ul {
 
 .welcome {
     display: flex;
-    flex-wrap: wrap;
+    flex-flow: column wrap;
+    align-items: flex-start;
+    
 }
