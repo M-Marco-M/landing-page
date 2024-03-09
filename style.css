@@ -24,3 +24,9 @@ ul {
     align-items: flex-start;
     
 }
+
+.image {
+    border: 3px solid white;
+    width: 400px;
+    height: 190px;
+}
