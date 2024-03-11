@@ -11,6 +11,16 @@ body {
 .left-side,
 .right-side {
     display: flex;  
+    flex-flow: column;
+    flex: 0 1 0;
+}
+
+.left-side {
+    align-items: flex-start;
+}
+
+.right-side {
+    align-items: flex-end;
 }
 
 ul {
