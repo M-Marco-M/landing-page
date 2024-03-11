@@ -4,16 +4,18 @@ body {
 
 .header {
     display: flex;
+    
 }
 
 .left-side,
 .right-side {
     display: flex;
-
 }
 
 ul {
     padding: 0px;
     margin: 0px;
     list-style-type: none;
+    display: flex;
+    flex-direction: row;
 }
