@@ -30,3 +30,9 @@ ul {
     display: flex;
     flex-direction: row;
 }
+
+.image {
+    width: 400px;
+    height: 180px;
+    border: 2px black solid;
+}
