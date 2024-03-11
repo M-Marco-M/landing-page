@@ -18,6 +18,11 @@ ul {
     flex-direction: row;
 }
 
+.welcome {
+    display: flex;
+    flex-flow: wrap;
+}
+
 .image {
     width: 400px;
     height: 180px;
