@@ -1,0 +1,13 @@
+body {
+    display: flex;
+}
+
+.header {
+    display: flex;
+}
+
+.left-side,
+.right-side {
+    display: flex;
+
+}
