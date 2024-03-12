@@ -35,7 +35,8 @@ ul {
     align-items: center;
     justify-content: space-between;
     margin-top: 70px;
-    flex-wrap: wrap;    
+    flex-wrap: wrap;   
+    flex: 0 1 auto; 
 }
 
 .welcome{
@@ -43,13 +44,14 @@ ul {
     flex-flow: row wrap;
     align-items: flex-start;
     font-size: 18px;
-    flex: 0 2 410px;   
+    flex: 0 1 410px;   
 }
 
 h1 {
     font-size: 48px;
     font-weight: bolder;
     margin: 0px;
+    flex: 0 1 auto;
 }
 
 .image {
