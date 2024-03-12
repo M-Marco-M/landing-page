@@ -24,6 +24,16 @@ ul {
     align-items: center;
 }
 
+.welcome{
+    display: flex;
+}
+
+h1 {
+    display: flex;
+}
+
+
+
 .image {
     width: 350px;
     height: 130px;
