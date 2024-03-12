@@ -23,6 +23,8 @@ ul {
 .presentation {
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    
 }
 
 .welcome{
@@ -30,20 +32,19 @@ ul {
     flex-flow: row wrap;
     align-items: flex-start;
     font-size: 18px;
-    flex: 0 0 0;   
+    flex: 0 2 410px;   
 }
 
 h1 {
     font-size: 48px;
     font-weight: bolder;
+    margin: 0px;
 }
 
 
 
 .image {
-    width: 500px;
     height: 220px;
     border: 2px black solid;
-    flex: 0 0 none;
-      
+    flex: 0 1 420px;
 }
