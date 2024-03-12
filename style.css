@@ -33,8 +33,7 @@ ul {
 
 .presentation {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
     margin-top: 70px;
     flex-wrap: wrap;  
     gap: 20px; 
@@ -45,7 +44,8 @@ ul {
     flex-flow: row wrap;
     align-items: flex-start;
     font-size: 18px;
-    flex: 1 1 410px;   
+    flex: 1 1 410px; 
+    margin-right: auto;  
 }
 
 h1 {
