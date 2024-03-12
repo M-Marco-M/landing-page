@@ -1,12 +1,10 @@
 body {
-
+    
 }
 
 /*Header section*/
 
-.header {
-    margin: 10px 240px;
-}
+
 
 .bar {
     display: flex;
@@ -57,7 +55,7 @@ h1 {
     flex-flow: row wrap;
     justify-content: center;
     align-items: flex-start;
-    margin: 10px 240px;
+    
 }
 
 
