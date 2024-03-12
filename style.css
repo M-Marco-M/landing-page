@@ -1,52 +1,7 @@
 body {
-    display: flex;
-    margin: 10px 200px;
+
 }
 
 .header {
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    gap: 20px;
-    
-}
-
-ul {
-    padding: 0px;
-    margin: 0px;
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
-}
-
-.presentation {
-    display: flex;
-    flex-flow: row nowrap;
-
-}
-
-.welcome {
-    display: flex;
-    flex-flow: column wrap;
-    align-items: flex-start;
-    flex: 1 10 auto;
-}
-
-h1 {
-    display: flex;
-    flex-wrap: wrap;
-    flex: 0 10 auto;
-}
-
-.small-text{
-    display: flex;
-    flex-wrap: wrap;
-    flex: 0 10 auto;
-}
-
-.image {
-    width: 400px;
-    height: 180px;
-    border: 2px black solid;
-    flex: 1 10 auto;
+    margin: 10px 100px;
 }
