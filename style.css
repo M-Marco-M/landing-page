@@ -27,6 +27,7 @@ ul {
 .welcome{
     display: flex;
     flex-flow: column;
+    align-items: flex-start;
     
 }
 
