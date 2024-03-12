@@ -58,3 +58,9 @@ h1 {
 .photo-ribbon {
     display: flex;
 }
+
+.photo {
+    width: 100px;
+    height: 100px;
+    border: 2px black solid;
+}
