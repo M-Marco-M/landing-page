@@ -2,8 +2,13 @@ body {
     
 }
 
-/*Header section*/
+.main {
+    padding: 10px 240px;
+    display: flex;
+    flex-direction: column;
+}
 
+/*Header section*/
 
 
 .bar {
