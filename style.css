@@ -18,3 +18,8 @@ ul {
     display: flex;
     gap: 15px;
 }
+
+.presentation {
+    display: flex;
+    align-items: center;
+}
