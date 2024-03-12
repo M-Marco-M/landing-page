@@ -35,8 +35,8 @@ ul {
     align-items: center;
     justify-content: space-between;
     margin-top: 70px;
-    flex-wrap: wrap;   
-    flex: 0 1 auto; 
+    flex-wrap: wrap;  
+    gap: 20px; 
 }
 
 .welcome{
@@ -44,20 +44,19 @@ ul {
     flex-flow: row wrap;
     align-items: flex-start;
     font-size: 18px;
-    flex: 0 1 410px;   
+    flex: 1 1 410px;   
 }
 
 h1 {
     font-size: 48px;
     font-weight: bolder;
     margin: 0px;
-    flex: 0 1 auto;
 }
 
 .image {
     height: 220px;
     border: 2px black solid;
-    flex: 0 1 420px;
+    flex: 1 1 420px;
 }
 
 /*Information section*/
@@ -65,6 +64,7 @@ h1 {
 .information {
     display: flex;
     flex-flow: column;
+    
 }
 
 h2 {
