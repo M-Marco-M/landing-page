@@ -48,6 +48,8 @@ h1 {
     flex: 0 1 420px;
 }
 
+
+
 .information {
     display: flex;
     flex-flow: column;
@@ -57,15 +59,17 @@ h1 {
 }
 
 .photo-ribbon {
+    
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .photo-element {
+    flex: 0 1 100px;
     display: flex;
     flex-flow: column;
     align-items: center;
-    max-width: min-content;
+    
 }
 
 .photo {
@@ -76,4 +80,5 @@ h1 {
 
 .description {
     text-align: center;
+    
 }
