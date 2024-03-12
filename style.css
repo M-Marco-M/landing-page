@@ -26,6 +26,8 @@ ul {
 
 .welcome{
     display: flex;
+    flex-flow: column;
+    
 }
 
 h1 {
@@ -38,4 +40,5 @@ h1 {
     width: 350px;
     height: 130px;
     border: 2px black solid;
+    
 }
