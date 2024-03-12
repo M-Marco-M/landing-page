@@ -63,12 +63,10 @@ h1 {
     
 }
 
-
-
 .photo-ribbon {
-    
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap
 }
 
 .photo-element {
