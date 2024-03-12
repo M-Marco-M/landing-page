@@ -2,6 +2,8 @@ body {
 
 }
 
+/*Header section*/
+
 .header {
     margin: 10px 240px;
 }
@@ -48,7 +50,7 @@ h1 {
     flex: 0 1 420px;
 }
 
-
+/*Information section*/
 
 .information {
     display: flex;
