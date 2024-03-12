@@ -42,10 +42,14 @@ h1 {
     margin: 0px;
 }
 
-
-
 .image {
     height: 220px;
     border: 2px black solid;
     flex: 0 1 420px;
+}
+
+.information {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
