@@ -5,3 +5,8 @@ body {
 .header {
     margin: 10px 100px;
 }
+
+.bar {
+    display: flex;
+    flex-direction: row;
+}
