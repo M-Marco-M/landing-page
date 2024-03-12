@@ -50,6 +50,11 @@ h1 {
 
 .information {
     display: flex;
+    flex-flow: column;
     justify-content: center;
     align-items: center;
+}
+
+.photo-ribbon {
+    display: flex;
 }
