@@ -27,10 +27,10 @@ ul {
 
 .welcome{
     display: flex;
-    flex-flow: column;
+    flex-flow: row wrap;
     align-items: flex-start;
     font-size: 18px;
-    flex: 0 0 none;   
+    flex: 0 0 0;   
 }
 
 h1 {
@@ -41,7 +41,7 @@ h1 {
 
 
 .image {
-    width: 900px;
+    width: 500px;
     height: 220px;
     border: 2px black solid;
     flex: 0 0 none;
