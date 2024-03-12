@@ -13,6 +13,7 @@ body {
 .header {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .bar {
@@ -33,7 +34,8 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 70px;    
+    margin-top: 70px;
+    flex-wrap: wrap;    
 }
 
 .welcome{
@@ -60,9 +62,7 @@ h1 {
 
 .information {
     display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: flex-start;
+    flex-flow: column;
 }
 
 h2 {
@@ -72,7 +72,7 @@ h2 {
 .photo-ribbon {
     display: flex;
     justify-content: space-evenly;
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 
 .photo-element {
