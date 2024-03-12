@@ -10,10 +10,10 @@ body {
 
 /*Header section*/
 
-
 .bar {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 ul {
@@ -22,15 +22,13 @@ ul {
     list-style: none;
     display: flex;
     gap: 15px;
-    margin-left: auto;
 }
 
 .presentation {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 70px;
-    
+    margin-top: 70px;    
 }
 
 .welcome{
