@@ -28,7 +28,8 @@ ul {
     display: flex;
     flex-flow: column;
     align-items: flex-start;
-    font-size: 18px;   
+    font-size: 18px;
+    flex: 0 0 none;   
 }
 
 h1 {
@@ -39,8 +40,9 @@ h1 {
 
 
 .image {
-    width: 350px;
-    height: 130px;
+    width: 900px;
+    height: 220px;
     border: 2px black solid;
+    flex: 0 0 none;
       
 }
