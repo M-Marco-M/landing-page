@@ -10,3 +10,9 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
