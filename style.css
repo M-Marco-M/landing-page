@@ -24,6 +24,7 @@ button {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    background-color: #1f2937;
 }
 
 .bar {
