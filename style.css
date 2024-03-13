@@ -16,7 +16,6 @@ button {
     font-family: inherit;
     background-color: #3882f6;
     color: #e5e7eb;    
-    border: #e5e7eb 2px solid;
     padding: 1px 17px;
     border-radius: 7px;
 }
@@ -185,4 +184,5 @@ h2 {
 }
 
 .signup-banner button {
+    border: #e5e7eb 2px solid;
 }
