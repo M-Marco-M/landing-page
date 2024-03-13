@@ -94,6 +94,9 @@ h1 {
 
 h2 {
     text-align: center;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
 }
 
 .photo-ribbon {
