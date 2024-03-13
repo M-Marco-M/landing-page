@@ -83,9 +83,12 @@ h1 {
 
 .image {
     height: 220px;
-    background-color: lightslategray;
-    flex: 1 1 420px;
+    background-color: rgb(88, 97, 105);
     color: #f9faf8;
+    flex: 1 1 420px;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /*Information section*/
