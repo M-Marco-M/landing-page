@@ -103,6 +103,7 @@ h2 {
 .banner {
     display: flex;
     flex-flow: column wrap;
+    align-items: flex-end;
 }
 
 .quote {
