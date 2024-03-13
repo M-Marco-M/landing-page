@@ -10,6 +10,12 @@ body {
     gap: 100px;
 }
 
+button {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: inherit;
+}
+
 /*Header section*/
 
 .header {
@@ -128,4 +134,3 @@ h2 {
     font-size: 22px;
     font-weight: bolder;
 }
-
