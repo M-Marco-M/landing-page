@@ -137,7 +137,7 @@ h2 {
     display: flex;
     flex-flow: column wrap;
     align-items: flex-end;
-    padding: 0px 190px;
+    padding: 120px 190px 0px 190px;
     background-color: #e5e7eb;
     color: #1f2937;
 }
@@ -149,8 +149,8 @@ h2 {
 }
 
 .sign {
-    font-size: 18px;
-    font-weight: 100;
+    font-size: 22px;
+    font-weight: bolder;
 }
 
 /*Signup-banner section*/
