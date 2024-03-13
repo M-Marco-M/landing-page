@@ -137,7 +137,7 @@ h2 {
     display: flex;
     flex-flow: column wrap;
     align-items: flex-end;
-    padding: 120px 190px 0px 190px;
+    padding: 120px 190px 95px 190px;
     background-color: #e5e7eb;
     color: #1f2937;
 }
