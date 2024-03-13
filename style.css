@@ -141,6 +141,11 @@ h2 {
     font-style: italic;
 }
 
+.sign {
+    font-size: 18px;
+    font-weight: 100;
+}
+
 /*Signup-banner section*/
 
 .signup-banner {
