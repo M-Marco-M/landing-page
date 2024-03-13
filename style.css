@@ -2,8 +2,10 @@ body {
     font-family: 'monospace', monospace;    
 }
 
+
+/*padding=+90px*/
+
 .main {
-    padding: 10px 90px;
     display: flex;
     flex-direction: column;
     align-items: center;
