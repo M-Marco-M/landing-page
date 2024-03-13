@@ -18,8 +18,11 @@ button {
     font-weight: bold;
     font-family: inherit;
     background-color: #3882f6;
-    color: #e5e7eb;
+    color: #e5e7eb;    
+    border: #e5e7eb 2px solid;
 }
+
+
 
 /*Header section*/
 
@@ -172,4 +175,12 @@ h2 {
 .bold {
     font-size: 22px;
     font-weight: bolder;
+    margin: 0px;
+}
+
+.thin {
+    margin: 0px;
+}
+
+.signup-banner button {
 }
