@@ -61,7 +61,6 @@ ul {
     display: flex;
     flex-flow: row wrap;
     align-items: flex-start;
-    font-size: 18px;
     flex: 1 1 410px; 
     margin-right: auto;  
 }
@@ -70,6 +69,11 @@ h1 {
     font-size: 48px;
     font-weight: bolder;
     margin: 0px;
+}
+
+.small-text {
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .image {
