@@ -70,6 +70,7 @@ ul {
     align-items: flex-start;
     flex: 1 1 410px; 
     margin-right: auto;  
+    gap: 10px;
 }
 
 h1 {
