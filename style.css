@@ -83,7 +83,7 @@ h1 {
 
 .image {
     height: 220px;
-    border: 2px black solid;
+    background-color: lightslategray;
     flex: 1 1 420px;
 }
 
