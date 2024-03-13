@@ -34,6 +34,11 @@ button {
     gap: 10px;
 }
 
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
 ul {
     margin: 0px;
     padding: 0px;
