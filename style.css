@@ -169,7 +169,7 @@ h2 {
     background-color: #3882f6;
     width: 963px;
     display: flex;
-    
+    justify-content: space-between;
 }
 
 .bold {
