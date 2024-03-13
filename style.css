@@ -117,8 +117,13 @@ h2 {
 /*Signup-banner section*/
 
 .signup-banner {
-    padding: 30px 200px;
+    
     background-color: aquamarine;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    
+
 }
 
 .bold {
