@@ -105,6 +105,7 @@ h2 {
     display: flex;
     flex-flow: column wrap;
     align-items: flex-end;
+    padding: 0px 100px;
 }
 
 .quote {
