@@ -207,13 +207,6 @@ h2 {
     margin-left: auto;
     align-self: center;
 }
-
-/*
-    align-self: flex-end;
-    padding-block-end: 17px;
-    padding-block-start: 17px;
-    flex: 0 1 none;
-*/
    
 .footer {
     width: 100%;
