@@ -169,10 +169,11 @@ h2 {
     background-color: #3882f6;
     padding: 50px 100px;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-items: center;
     gap: 20px;
+}
+
+.inner-box {
+    display: flex;    
 }
 
 .text {
@@ -193,6 +194,7 @@ h2 {
 
 .signup-banner button {
     border: #e5e7eb 2px solid;
+    margin-left: auto;
 }
 
 /*
