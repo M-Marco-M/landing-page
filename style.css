@@ -212,12 +212,13 @@ h2 {
     padding-block-end: 17px;
     padding-block-start: 17px;
     flex: 0 1 none;
-
+*/
    
 .footer {
+    width: 100%;
     display: flex;
-    justify-content: center;
+    flex: 1 1 120px;
     align-items: center;
+    justify-content: center;
     background-color: #1f2937;
-
 }
