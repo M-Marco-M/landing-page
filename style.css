@@ -8,6 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: fit-content;
 }
 
 button {
@@ -165,21 +166,30 @@ h2 {
 /*Signup-banner section*/
 
 .signup-banner {
-    border-radius: 10px;
-    background-color: #3882f6;
-    padding: 50px 100px;
+    width: 100%;
     display: flex;
-    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+
 }
 
 .inner-box {
-    display: flex;    
+    flex: 1 1 1000px;   
+    border-radius: 10px;
+    background-color: #3882f6;
+    padding: 40px 90px;
+    margin: 120px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
 }
 
 .text {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    flex-wrap: wrap;
 }
 
 .bold {
