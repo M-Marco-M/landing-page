@@ -169,8 +169,10 @@ h2 {
     background-color: #3882f6;
     padding: 50px 100px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: flex-start;
-    gap: 180px;
+    align-items: center;
+    gap: 20px;
 }
 
 .text {
